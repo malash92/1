@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Cursor
-=======
-Hello
->>>>>>> second
+Hello Cursor
